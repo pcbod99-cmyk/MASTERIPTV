@@ -1,0 +1,157 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/35/a9/86/35a986dab5e89d6ff3a4d01b1d0fc380.jpg" group-title="SUR PERÚ",AMERICA TV HD
+http://190.93.224.42/AMERICA-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/c7/a3/34/c7a33431c2d87254d15c4d36b8f709e3.jpg" group-title="SUR PERÚ",ATV TV HD
+https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/4c/a3/85/4ca385a4e0c75d9ed60d12d3ac2c4c62.jpg" group-title="SUR PERÚ",ATV SUR TV HD
+http://190.93.224.42/ATV-SUR/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/5d/a8/82/5da882fa0c93eff722dd68532866f569.jpg" group-title="SUR PERÚ",ATV+ TV HD
+http://190.93.224.42/ATV-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/aa/42/c1/aa42c135ece96495e4aca083e45b78b3.jpg" group-title="SUR PERÚ",BICOLOR TV HD 
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_source/chunks.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/0d/d6/71/0dd671d6243dd320171259b03aa74240.jpg" group-title="SUR PERÚ",BETHEL TV HD
+https://live-evg25.tv360.bitel.com.pe/bitel/bethel/chunks.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/b0/1e/c8/b01ec80dd671cdcf3936e99494dc650d.jpg" group-title="SUR PERÚ",TUSAMI BITEL TV HD
+https://live-evg8.tv360.bitel.com.pe/bitel/tusamimillonario/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=11344307
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/e8/74/4b/e8744bcdbb546ce562d16d4cb381f040.jpg" group-title="SUR PERÚ",ECO TV HD
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/59/c2/a6/59c2a6c3ad6d32a7aa687c9d4fd7b2d7.jpg" group-title="SUR PERÚ",EXITOSA TV HD
+http://190.93.224.42/EXITOSA/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/68/e7/5e/68e75e2635b893041d54533642014600.jpg" group-title="SUR PERÚ",GLOVAL TV HD
+http://190.93.224.42/GLOBAL/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/dd/cd/d6/ddcdd68283ec8136762f70b7da88162c.jpg" group-title="SUR PERÚ",IPE TV HD 
+http://187.102.210.46/IPE/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/4c/c9/f8/4cc9f82076ba070875faa8de00e50261.jpg" group-title="SUR PERÚ",L1 TV HD
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/29/d4/78/29d47860aa8ed8581288869780192174.jpg" group-title="SUR PERÚ",L1 MAX TV HD
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/b5/fc/89/b5fc896ed88467a283c05d587cc59a3c.jpg" group-title="SUR PERÚ",LATELE TV HD 
+http://190.93.224.42/LA-TELE/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/93/2e/1b/932e1b1bab6cddebdeb5f8340735740e.jpg" group-title="SUR PERÚ",LATINA TV HD 
+http://190.93.224.42/LATINA/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/6e/31/c9/6e31c9485ce08b24cdd615063287e53c.jpg" group-title="SUR PERÚ",LATINA CLASICOS TV HD
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/7d/fd/2c/7dfd2c2dfca5be5676940a9963d48c68.jpg" group-title="SUR PERÚ",LATINA NOTICIAS TV HD
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/21/a0/83/21a083b0e25c6c1e815e77879909dcac.jpg" group-title="SUR PERÚ",LATINA POTCAST TV HD 
+https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/55/2b/f9/552bf9aa7d6f561074698759fe819837.jpg" group-title="SUR PERÚ",WILLAX TV HD
+http://190.93.224.42/WILLAX/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="https://i.pinimg.com/736x/37/6d/4f/376d4f7ee15d5d7b251e077d3d0d5fb6.jpg" group-title="SUR PERÚ",PANAMERICANA TV HD
+http://45.171.108.253:8888/PANAMERICANA/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",PRIMAVERA TV 15HD
+https://mc.servidor.stream:19360/8244/8244.m3u8
+
+#EXTINF:-1 tvg-name="TELESUR MOQUEGUA" tvg-logo="" group-title="SUR PERÚ",TELESUR MOQUEGUA
+#EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
+#EXTVLCOPT:http-origin=https://www.telesur.com.pe/
+https://telesurnew.b-cdn.net/hls/moquegua.m3u8
+
+#EXTINF:-1 tvg-name="TELESUR ILO" tvg-logo="" group-title="SUR PERÚ",TELESUR ILO
+#EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
+#EXTVLCOPT:http-origin=https://www.telesur.com.pe/
+https://telesurnew.b-cdn.net/hls/ilo.m3u8
+
+#EXTINF:-1 tvg-name="TELESUR MOLLENDO" tvg-logo="" group-title="SUR PERÚ",TELESUR MOLLENDO
+#EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
+#EXTVLCOPT:http-origin=https://www.telesur.com.pe/
+https://telesurnew.b-cdn.net/hls/mollendo.m3u8
+
+#EXTINF:-1 tvg-name="TELESUR CAMANA" tvg-logo="" group-title="SUR PERÚ",TELESUR CAMANA
+#EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
+#EXTVLCOPT:http-origin=https://www.telesur.com.pe/
+https://telesurnew.b-cdn.net/hls/camana.m3u8
+
+#EXTINF:-1 tvg-name="TELESUR TACNA" tvg-logo="" group-title="SUR PERÚ",TELESUR TACNA
+#EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
+#EXTVLCOPT:http-origin=https://www.telesur.com.pe/
+https://telesurnew.b-cdn.net/hls/tacna.m3u8
+
+#EXTINF:-1 tvg-name="TELESUR EXPRESIÓN" tvg-logo="" group-title="SUR PERÚ",EXPRESIÓN TV
+#EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
+#EXTVLCOPT:http-origin=https://www.telesur.com.pe/
+https://telesurnew.b-cdn.net/hls/radioilo.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",KARIBEÑA RADIO
+http://187.102.210.46/KARIBENA/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",KARIBEÑA TV HD
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",JUNTOS TV HD
+http://45.70.201.81:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",TV PERÚ HD
+http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",MOVISTAR PLUS TV HD 
+http://190.108.91.206:9050/play/a0bb/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",NACIONAL TV PERÚ HD
+https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",OSONO TV HD 
+https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",PBO TV HD 
+http://190.93.224.42/PBO/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",PEQUES TV HD 
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",DISNEY JUNIOR TV HD
+moz-extension://aa2b355c-9973-4d27-bd65-d241976ba661/player.html#http://181.78.14.26:4000/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",DISCOVERI KITS V HD
+http://38.224.231.176:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",CARTOON NETWORK TV HD
+http://45.173.12.70:8000/play/a0fj
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",CARTONITO TV HD 
+https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",DISNEY CHANNEL TV HD
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",NIKELODEON TV HD
+http://181.78.79.131:8000/play/a0qm
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",NIKI KIDS TV HD
+http://stream.mcquack.net/271/index.m3u8
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",STAR CHANNEL TV HD
+http://213.91.179.28:8000/play/a0c9
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",STAR CRIMME TV HD
+http://213.91.179.28:8000/play/a0cs
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",STAR LIFE 
+http://213.91.179.28:8000/play/a0cr
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",MUVIE STAR
+http://85.14.32.26:8800/udp/239.100.10.160:5000
+
+#EXTINF:-1 tvg-name="PERÚ" tvg-logo="" group-title="SUR PERÚ",DISCOVERI CHANNEL TV HD
+http://45.171.64.30:6060/play/a032/index.m3u8
